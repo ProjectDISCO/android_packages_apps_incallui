@@ -106,4 +106,13 @@
 
     <!-- Ripple color used over light backgrounds. -->
     <color name="ripple_light">#40000000</color>
+    
+    <!-- Exposed colors for theming -->
+    
+    <color name="exposed_bg_dark">#ffffffff</color>
+    <color name="exposed_bg_light">#ff000000</color>
+    <color name="exposed_primary_text_light">#de000000</color>
+    <color name="exposed_secondary_text_light">#8a000000</color>
+    <color name="exposed_primary_text_dark">#ffffffff</color>
+    <color name="exposed_secondary_text_dark">#b3ffffff</color>
 </resources>
